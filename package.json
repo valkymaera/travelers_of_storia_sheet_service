@@ -1,0 +1,19 @@
+{
+  "name": "Rapid Sheet Data Service",
+  "version": "1.0.0",
+  "description": "Rapid Sheet Data (RSD) web service responsible for pulling data from Google Sheets, returning a JSON formated string on success.",
+  "engines": {
+    "node": "5.9.1"
+  },
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "google-auth-library": "^0.10.0",
+    "googleapis": "^17.1.0"
+  }
+}
