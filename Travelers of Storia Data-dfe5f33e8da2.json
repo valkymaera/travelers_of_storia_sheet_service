@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "travelers-of-storia-data",
+  "private_key_id": "dfe5f33e8da2967510a55b465c60bdc8e7f989ef",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDaC+QZ0VjGjs/i\nlFt0N36Q0fZHDR+gHSHEpY+Gz/IpsMBF/0RG7oFgWjrh4exMcnFzSEpm2t/DHRxE\nZFuQLz3UqdTOId9Ldz4iaZiyCEZ1QCDRpDZ2pDGvXQnfRmrQRXW2sijDDyB9IsCl\njl8FeK+lKCp3gVsnS7G1lQJq3FWJjbkrxoMqYNvMlaKlbJL1ToL1O3LGabjlS6jT\nS4Gugt+SAMbGnUTj9hngS7CygdJthGoBqZlLQl+2fehDmlvcXpi3uAQa5DB0qKIV\nprqIxxvij5tZdfyEJFE9B0sb8crKzHrs5DmNn6CayojNLIfhwcF0ydAjbb4CwGNW\nR9/WVMxhAgMBAAECggEAW36Z3GuIAOl0OfNe3MlchpBT80SCfME8pjOComMnjm7o\nf3a5w7nY+AFkq9wNN5beHC29aqN1OX5BmkEyWrI4E8Cf109HT3ddzzrYI/xs9E5Q\ndyec4vPLFXbI6bO2pmY/GsZvbEowq9GlXNL89GLL8VWFXFgfU8Hjc/pu5UBHdEwJ\njObmqCS5ZPBIya1xktCkgXSjaul7475NfpJNmXixOFDszAmAChu+poQGzihLXFMx\n3hSzms80vth+V721jACqAv3lrCskRMN9e8YCgjk702ZskIZtfZqlqwxQvxyjxqL4\nebub5/qj84YeLoQclGyHcVdhCODvwFC1poSGSMmSsQKBgQDyExA4PCfh83nz/H2x\nqN4uOZXVUxumzqoWvetKmBRZ17932bgfXgKsgOw5B4I0/gtXtolC+lXWdMwzRVkj\n21APDqIqggaqC8UNsMSU5yx66O/7LA+h8UMKQKMEao2KDIghc1PTSsfgda8ObABN\nTDUSGl/VzUF++vOOUJJlZGigDwKBgQDmlvn0jRQiiC2KJmYeLXmI4bEc6iew7WPb\nxCDDSN2cUhXExP5a2W/TrVIpaf3/63vE8RCblI5oImdyVoEkQL9kR0QqdI1jaI5c\nqHjbyhUUg30lKH521fqHwurjM+Rkwe2Fx5LN99y9qs3JgD5omnRVaPJ22kTkDOWw\nDcTZdcJcjwKBgQCrTKIlqSvv0IN0DDBGD+FphIZqtqzSlVv3S928o3GDQhDTltWc\nHMJ3n6OJl66kIUGViC4Jn2wunegCQAicPw2gGhLXUbu1iS6gSX5SgGQRddScQMmv\nJzLxhlvVPDF8hvGt+hZPZpOaWqzN3882476KWO+IM/8tBBhllM6DwVHoMQKBgQDi\nblEHHt4txrGJXomaiqc0jgNg1GKjb4lGjgJqIYxUa5qqvZLT3X7dSu5KcqWUgEXq\nr5nSXP+2LEqO0XlBAz+uFflPA2KvwkVBocIEeh1XJoNmUKxWv2qjk/kZoKRfeLto\nSgDTttiRez9W5lLiXwFruYGWymEp26xUxECQFf4E6wKBgGOoLmJ6hTZ70PXG8XYE\nH56inT4UGmtTcbZ/RshlaR66Dh6KAvcsBscV+mP7SYJV2GPvyXiicqEi7x2DR4eM\n6DmGz3R7aoRCX626JXX3dI8wWAvwEPn+kFubLlb9/ZkEujf2BQj5xB8rktXxRqwi\n+/3ZRp5jIP7SZyQVuPenyb3C\n-----END PRIVATE KEY-----\n",
+  "client_email": "rsd-agent@travelers-of-storia-data.iam.gserviceaccount.com",
+  "client_id": "109400737165850608188",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/rsd-agent%40travelers-of-storia-data.iam.gserviceaccount.com"
+}
